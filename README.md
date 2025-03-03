@@ -53,7 +53,9 @@ it will fire off other functions based on which button the player chose.  If gam
         display "The battle rages, choose again."
     7. At the bottom is a "Reset Game" button that changes
 Finally I added a fun easter egg: if you hover over the Dagron picture text displays telling you to click for a sound, and the game plays a Dagron Roar .wav file.
+
 ## Accessability Concerns
+
     1. Checked the background hue vs. font of the least contrasting areas (dark red on tan) into a contrast checking site and achieved 5.7, which exceeds AA compliance to The W3C Web Content Accessibility Guidelines 2.0 [Contrast Test](https://webaim.org/resources/contrastchecker/?fcolor=8B0000&bcolor=DEBF92)
     2. Action buttons for the player: each action button and icon image which are clickable are at least 44pixels on the shortest size, which satisfies
     3. Website functionality is operable by keyboard.
